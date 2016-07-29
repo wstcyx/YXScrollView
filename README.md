@@ -1,5 +1,5 @@
 # YXScrollView
 
 <figure>
-<img src="{{ site.url }}/1111.png"></a>
+<img src="{{ site.url }}/images/1111.png"></a>
 </figure>
