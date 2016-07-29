@@ -1,5 +1,5 @@
 # YXScrollView
 
 <figure>
-<img src="http://www.ivsky.com/tupian/yuanyue_t20602/">
+<img src="{{ site.url }}/images/1111.png"></a>
 </figure>
